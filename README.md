@@ -1,6 +1,9 @@
 # mc_qwen
 TextEconder for qwen image edit with internal lanczos rescale  instead of area rescale.
 
+You cab find in
+MC nodi/qwen
+
 based on
 https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO/blob/main/fixed-textencode-node/nodes_qwen.py
 
