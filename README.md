@@ -1,7 +1,8 @@
 # mc_qwen
 TextEconder for qwen image edit with internal lanczos rescale  instead of area rescale.
 
-You cab find in
+You can find in:
+
 MC nodi/qwen
 
 based on
