@@ -1,5 +1,5 @@
 # mc_qwen
-TextEconder for qwen image edit with internal lanczos rescale  instead of area rescale.
+comfyui node TextEconder for qwen image edit with internal lanczos rescale  instead of area rescale.
 
 You can find in:
 
