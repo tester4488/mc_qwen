@@ -19,3 +19,8 @@ https://www.reddit.com/r/comfyui/comments/1nxrptq/how_to_get_the_highest_quality
 
 <img width="1006" height="348" alt="immagine" src="https://github.com/user-attachments/assets/d3dbf728-e23c-4926-a120-067724470d5a" />
 
+
+Adding image_qwen_image_edit-AIO-v001.json workflow:
+
+<img width="581" height="679" alt="immagine" src="https://github.com/user-attachments/assets/4593cf32-3852-4508-a346-5e6cbde6616c" />
+
