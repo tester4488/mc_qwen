@@ -26,3 +26,8 @@ Adding image_qwen_image_edit-AIO-v001.json workflow:
 
 <img width="581" height="679" alt="immagine" src="https://github.com/user-attachments/assets/4593cf32-3852-4508-a346-5e6cbde6616c" />
 
+adding image_qwen_image_edit-AIO-3loras-001.json workflow with Multiples angles and Light restoration loras.
+
+<img width="924" height="729" alt="immagine" src="https://github.com/user-attachments/assets/26f3bb7b-1a86-4677-8378-9783abfa85e5" />
+
+
