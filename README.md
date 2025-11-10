@@ -1,6 +1,16 @@
 # mc_qwen
 comfyui node TextEconder for qwen image edit with internal lanczos rescale  instead of area rescale.
 
+Manual Installation:
+
+```bash
+# Navigate to ComfyUI's custom_nodes directory
+cd ComfyUI/custom_nodes
+
+# Clone the repository
+git clone https://github.com/tester4488/mc_qwen.git
+```
+
 You can find in:
 
 MC nodi/qwen
