@@ -1,6 +1,8 @@
 [project]
 name = "mc_qwen"
 description = "comfyui node TextEconder for qwen image edit with internal lanczos rescale instead of area rescale."
+version = "1.0.0"
+license = {file = "LICENSE"} 
 version = "0.0.1"
 license = "MIT LICENSE" 
 # classifiers = [
@@ -28,8 +30,10 @@ Documentation = "https://github.com/tester4488/mc_qwen/wiki"
 "Bug Tracker" = "https://github.com/tester4488/mc_qwen/issues"
 
 [tool.comfy]
+PublisherId = ""
 PublisherId = "@tester4488"
 DisplayName = "mc_qwen"
 Icon = ""
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
+
