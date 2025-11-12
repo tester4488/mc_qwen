@@ -2,7 +2,7 @@
 name = "mc_qwen"
 description = "comfyui node TextEconder for qwen image edit with internal lanczos rescale instead of area rescale."
 version = "1.0.0"
-license = "MIT LICENSE" 
+license = {text = "MIT License"}
 
 [project.urls]
 Repository = "https://github.com/tester4488/mc_qwen"
