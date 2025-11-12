@@ -40,4 +40,9 @@ adding image_qwen_image_edit-AIO-3loras-001.json workflow with Multiples angles 
 
 <img width="924" height="729" alt="immagine" src="https://github.com/user-attachments/assets/26f3bb7b-1a86-4677-8378-9783abfa85e5" />
 
+adding a wokflow with the subgraph nodes and Camera Control Prompt Generator node.
+
+<img width="503" height="398" alt="immagine" src="https://github.com/user-attachments/assets/1f2a1388-fbdf-4fd5-af40-e4c3137d3ff7" />
+<img width="512" height="586" alt="immagine" src="https://github.com/user-attachments/assets/bf597943-7767-431c-9f7b-0474c0035181" />
+
 
