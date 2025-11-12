@@ -2,7 +2,7 @@
 name = "mc_qwen"
 description = "comfyui node TextEconder for qwen image edit with internal lanczos rescale instead of area rescale."
 version = "0.0.1"
-license = {file = "LICENSE"} 
+license = "MIT LICENSE" 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
 #     "Operating System :: OS Independent",
