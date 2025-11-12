@@ -28,7 +28,7 @@ Documentation = "https://github.com/tester4488/mc_qwen/wiki"
 "Bug Tracker" = "https://github.com/tester4488/mc_qwen/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "@tester4488"
 DisplayName = "mc_qwen"
 Icon = ""
 includes = [] 
