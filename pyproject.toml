@@ -10,7 +10,7 @@ Repository = "https://github.com/tester4488/mc_qwen"
 
 
 [tool.comfy]
-PublisherId = "@tester4488"
+PublisherId = "tester4488"
 DisplayName = "node for qwen text encoder with lanczos resize"
 Icon = ""
 
