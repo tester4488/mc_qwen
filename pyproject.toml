@@ -1,7 +1,7 @@
 [project]
 name = "mc_qwen"
 description = "comfyui node TextEconder for qwen image edit with internal lanczos rescale instead of area rescale."
-version = "1.0.0"
+version = "1.0.1"
 license = {text = "MIT License"}
 
 [project.urls]
@@ -11,7 +11,7 @@ Repository = "https://github.com/tester4488/mc_qwen"
 
 [tool.comfy]
 PublisherId = "tester4488"
-DisplayName = "node for qwen text encoder with lanczos resize"
+DisplayName = "mc_qwen"
 Icon = ""
 
 
